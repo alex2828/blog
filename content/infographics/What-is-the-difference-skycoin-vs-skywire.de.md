@@ -24,4 +24,4 @@ image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 
 Die Nutzung von Skywire ist KOSTENLOS, aber Nutzer können Nodes für eine höhere Bandbreite und schnellere Weiterleitung bezahlen. Dies stellt die dauerhafte Nachfrage nach Skycoin sicher.
 
-Die Skycoin-Blockchain und das Skywire-Netzwerk können unabhängig voneinander existieren. Beide zusammen aber bilden ein Ökosystem, dass die Welt wie wir sie kennen, verändern wird. Skywire ist der Gebrauchsgegenstand für Skycoin, während Skycoin den finanziellen Anreiz setzt um Skywire zu erweitern. 
+Die Skycoin-Blockchain und das Skywire-Netzwerk können unabhängig voneinander existieren. Zusammen aber bilden beide ein Ökosystem, dass die Welt wie wir sie kennen, verändern wird. Skywire ist der Gebrauchsgegenstand für Skycoin, während Skycoin den finanziellen Anreiz setzt Skywire zu erweitern. 
