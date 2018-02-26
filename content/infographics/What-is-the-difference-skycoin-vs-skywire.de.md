@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Digest: Skycoin vs Skywire [INFOGRAPHIC]"
+title = "Skycoin Übersicht: Skycoin vs Skywire [INFOGRAPHIC]"
 tags = [
     "Skycoin Digest",
     "Infographics",
@@ -13,15 +13,15 @@ image = "img/What-is-the-difference-skycoin-vs-skywire.jpg"
 +++
 
 
-## What’s the difference between Skycoin and Skywire?
+## Was ist der Unterschied zwischen Skycoin und Skywire?
 
-### Skycoin is the cryptocurrency.
-> It was developed to address problems that Bitcoin could not solve. We created a revolutionary consensus algorithm called Obelisk that eliminates mining.
+### Skycoin ist die Kryptowährung.
+> Entwickelt um die Probleme zu lösen, an denen Bitcoin scheiterte. Wir entwarfen einen revolutionären Konsensus-Algorithmus namens Obelisk, der Mining überflüssig macht.
 
-### Skywire is the mesh network.
+### Skywire ist das Mesh-Netzwerk.
 
-> Skywire was developed to address problems with the internet itself. Skywire can operate independently from Skycoin. It’s not the first attempt at a global mesh network, but it will be the first to succeed. There have been several attempts at building similar networks, but none have flourished because they have only been run by volunteers. By integrating Skycoin with Skywire, individuals are incentivized to participate by earning money for running the internet, instead of a large ISPs. This is the only sustainable path for democratizing the internet infrastructure.
+> Skywire wurde entwickelt, um die Probleme mit dem Internet selbst zu lösen. Skywire kann unabhängig von Skycoin genutzt werden. Es ist nicht der erste Versuch ein globales Mesh-Netzwerk zu etablieren, aber der erste der gelingen wird. Es gab bereits einige Versuche ein ähnliches Netzwerk zu etablieren, aber keines konnte sich durchsetzen, da sie auf ehrenamtlicher Basis funktionierten. Durch die Integration von Skycoin in Skywire wird ein finanzieller Anreiz gesetzt mitzumachen und das Netzwerk selbst, anstelle der großen Internetprovider, zur Verfügung zu stellen. Dies ist der einzig nachhaltige Weg um die Internet-Infrastruktur zu demokratisieren.
 
-Using Skywire is FREE, but users can pay nodes for priority service and higher bandwidth. This provides long term demand for Skycoin.
+Die Nutzung von Skywire ist KOSTENLOS, aber Nutzer können Nodes für eine höhere Bandbreite und schnellere Weiterleitung bezahlen. Dies stellt die dauerhafte Nachfrage nach Skycoin sicher.
 
-The Skycoin blockchain and the Skywire network could exist independently from one another but together they create ecosystem that will change the world. Skywire provides a utility purpose for Skycoin, and Skycoin provides a financial incentive to expand Skywire.
+Die Skycoin-Blockchain und das Skywire-Netzwerk können unabhängig voneinander existieren. Beide zusammen aber bilden ein Ökosystem, dass die Welt wie wir sie kennen, verändern wird. Skywire ist der Gebrauchsgegenstand für Skycoin, während Skycoin den finanziellen Anreiz setzt um Skywire zu erweitern. 
