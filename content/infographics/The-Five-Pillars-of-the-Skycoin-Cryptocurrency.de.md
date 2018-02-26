@@ -21,7 +21,7 @@ Eine vollständig dezentralisierte Kryptowährung, sicher vor 51%-Attacken und b
 
 ## __2. SKYWIRE__
 
-Ein Mesh-Netzwerk durch dass du Skycoin verdienen kannst, indem du Traffic weiterleitest und Bandbreite zur Verfügung stellst. Ähnlich wie Tor oder BitTorrent, nur dass du diesmal dafür bezahlt wirst. 
+Ein Mesh-Netzwerk womit du Skycoin verdienen kannst, indem du Traffic weiterleitest und Bandbreite zur Verfügung stellst. Ähnlich wie Tor oder BitTorrent, nur dass du diesmal dafür bezahlt wirst. 
 
 ## __3. SKYLEDGER__
 
