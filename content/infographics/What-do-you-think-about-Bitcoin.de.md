@@ -1,5 +1,5 @@
 +++
-title = "Skycoin Übersicht: Was denkst Du über Bitcoin? [INFOGRAPHIC]"
+title = "Skycoin Übersicht: Was denkst du über Bitcoin? [INFOGRAPHIC]"
 tags = [
     "Skycoin Digest",
     "Infographics",
