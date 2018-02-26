@@ -21,11 +21,11 @@ Eine vollständig dezentralisierte Kryptowährung, sicher vor 51%-Attacken und b
 
 ## __2. SKYWIRE__
 
-Ein Mesh-Netzwerk durch dass du Skycoin verdienen kannst, indem du Traffic weiterleitest und Bandbreite zu Verfügung stellst. Ähnlich wie Tor oder BitTorrent, nur dass du diesmal dafür bezahlt wirst. A mesh network that allows you to earn Skycoin for forwarding traffic/bandwidth. This is a similar to Tor or BitTorrent, except that you will be paid to participate.
+Ein Mesh-Netzwerk durch dass du Skycoin verdienen kannst, indem du Traffic weiterleitest und Bandbreite zur Verfügung stellst. Ähnlich wie Tor oder BitTorrent, nur dass du diesmal dafür bezahlt wirst. 
 
 ## __3. SKYLEDGER__
 
-Eine Plattform die Ethereums ERC20-Plattform ähnelt. So ähnlich wie ein 2018er Bugatti Chiron zu einem 1992er Geo Metro. Beides sind Autos.
+Eine Plattform die Ethereums ERC20-Plattform ähnelt. Wie ein 2018er Bugatti Chiron, der einem 1992er Geo Metro ähnelt. Beides sind Autos.
 
 ## __4. Dezentralisierte APPS__
 
